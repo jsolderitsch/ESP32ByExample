@@ -6,3 +6,6 @@ Windows users may need to add or update a USB serial driver to connect to the ES
 The driver can be found at the URL: [Silicon Labs Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 A video walking through the installation process is at: [Driver Installation Walkthrough](https://www.youtube.com/watch?v=UuuqnmJIjR0)
+
+The Assembly sketches require some libraries to be added so that they can compile and be installed. A video (not mine)illustrating the process is at: [Library Installation](https://www.youtube.com/watch?v=v2qIB6iigPI)
+
