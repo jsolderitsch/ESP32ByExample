@@ -30,3 +30,6 @@ The following code snippet contains the pin numbers for all six LEDs and all six
 ```
 
 If you find that sketches are not working it is likely that the pin numbers used need to be adjusted as defined above.
+
+A PCB test sketch is now available in the ExampleSketches Zip file.
+
